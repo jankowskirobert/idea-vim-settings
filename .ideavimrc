@@ -1,0 +1,21 @@
+set scrolloff=10
+set history=1000
+set number relativenumber
+set showmode
+set showcmd
+set smartcase
+set incsearch
+set hlsearch
+set visualbell
+set clipboard+=unnamed
+
+let mapleader="\<space>"
+set gdefault
+
+
+set ideajoin
+set ideamarks
+set idearefactormode=normal
+set ideastatusicon=gray
+
+inoremap jk <Esc>
