@@ -19,3 +19,56 @@ set idearefactormode=normal
 set ideastatusicon=gray
 
 inoremap jk <Esc>
+
+nmap <C-p> <Action>(PreviousTab)
+nmap <C-n> <Action>(NextTab)
+
+nmap [[ <Action>(MethodUp)
+nmap ]] <Action>(MethodDown)
+
+nnoremap <C-[> :noh<return>
+
+
+nmap <C-m> <Action>(ShowPopupMenu)
+
+nmap <C-S-m> <Action>(ToolWindowsGroup)
+
+nmap <C-i> <Action>(Back)
+nmap <C-o> <Action>(Forward)
+
+""
+nmap <leader>srec <Action>(RecentFiles)
+nmap <leader>suse <action>(ShowUsages)
+nmap <leader>spar <action>(ParameterInfo)
+
+
+""
+nmap <leader>newf <Action>(NewScratchFile)
+
+nmap <leader>loch <Action>(LocalHistory.ShowHistory)
+
+
+nmap <leader>gd <Action>(GotoDeclaration)
+
+nmap <leader>gs <Action>(GotoSuperMethod)
+
+"go to class"
+nmap <leader>gc <Action>(GotoTypeDeclaration)
+
+nmap <leader>gi <Action>(GotoImplementation)
+
+nmap <leader>gt <Action>(GotoTest)
+
+nmap <leader>gen <Action>(Generate)
+
+nmap <leader>ref <Action>(ReformatCode)
+
+nmap <leader>qx <Action>(CloseContent)
+
+
+nmap <leader>rrun <action>(Rerun)
+nmap <leader>rtest <Action>(RunTests)
+nmap <leader>rclass <action>(RunClass)
+nmap <leader>rmenu <action>(RunMenu)
+
+
