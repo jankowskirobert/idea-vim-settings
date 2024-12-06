@@ -15,3 +15,5 @@ execute pathogen#infect()
 syntax on
 filetype plugin indent on
 inoremap jk <Esc>
+set backspace=indent,eol,start
+
