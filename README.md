@@ -99,4 +99,22 @@ ci"
     ctrl + r
   </li>
 </ul>
- 
+
+ <ul>copying/ duplicating
+  <li>
+    YP
+
+  </li>
+  <li>
+    yy -> p
+  </li>
+  <li>
+   yiw
+  </li>
+    <li>
+   yaw
+  </li>
+  <li>
+   yi"
+  </li>
+</ul>
