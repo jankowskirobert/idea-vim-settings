@@ -118,3 +118,6 @@ ci"
    yi"
   </li>
 </ul>
+
+Upper case a word
+- select a word in visual mode and then ~
