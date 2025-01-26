@@ -119,5 +119,31 @@ ci"
   </li>
 </ul>
 
+<ul>Delete letter 
+<li>on cursor: x
+ 
+</li>
+<li>
+ before cursor: X
+</li>
+</ul>
+
+<ul>inser at 
+<li>the end of line: 
+ A
+</li>
+<li>
+ after cursor: a
+</li>
+ <li>
+ new line: o
+</li>
+ <li>
+ new line above cursor O
+</li>
+ <li>
+ inser at the beginning of the first word I
+</li>
+</ul>
 Upper case a word
 - select a word in visual mode and then ~
