@@ -147,3 +147,9 @@ ci"
 </ul>
 Upper case a word
 - select a word in visual mode and then ~
+
+Open new file (quit current) :e filename
+Split open :split/:vsplit filename
+Traverse opened windows ctrl+w + hjkl
+Open a new tab :tabnew
+traverse tabs gT gt (:tabn :tabp)
