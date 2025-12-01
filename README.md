@@ -154,4 +154,5 @@ Traverse opened windows ctrl+w + hjkl
 Open a new tab :tabnew
 traverse tabs gT gt (:tabn :tabp)
 
-:tabnew | term  than being there ctr; \ + ctrl n to exit to normal and than i to back, in normal scrolling and quering works fine
+:tabnew | term  than being there ctr; \ + ctrl n to exit to normal and than i to back, in normal scrolling and quering works fine <br>
+ctrl+q block selection in visual, than A / I and text + esc
